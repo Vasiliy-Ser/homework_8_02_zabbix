@@ -41,8 +41,7 @@ systemctl enable zabbix-server zabbix-agent apache2
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![1](https://github.com/Vasiliy-Ser/homework_8_02_zabbix/blob/4a21239ae32a2a984666e2453d44fa66c4df5cb9/img/1.1.png)`
-
+![1](https://github.com/Vasiliy-Ser/homework_8_02_zabbix/blob/4a21239ae32a2a984666e2453d44fa66c4df5cb9/img/1.1.png)
 
 ---
 
